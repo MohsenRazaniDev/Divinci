@@ -1,34 +1,36 @@
-# Divinci — Advanced CSS Masterpieces Collection
+# 🎨 Divinci — Advanced CSS Masterpieces Collection
 
-Welcome to **Divinci**, a curated collection of advanced CSS projects showcasing deep mastery and creative use of CSS features.  
-Each subproject here highlights different aspects of CSS power, from art to layouts to interactive UI elements — all without JavaScript.
-
----
-
-## Projects Overview
-
-### 1. Art Face
-A detailed CSS art piece creating a stylized human face purely with HTML and CSS, demonstrating advanced shape creation, layering, and effects.
-
-### 2. Dashboard
-A modern, minimal dark-themed CSS dashboard showcasing grid layout, typography, icons, and interactive hover effects — all with CSS only.
-
-### 3. Grid Magazine (Grid v1)
-An initial version of a magazine layout built with CSS Grid, featuring responsive columns, elegant spacing, and smooth typography.
-
-### 4. Grid Magazine (Grid v2)
-An enhanced, more complex magazine layout iteration with refined grid usage, gradients, subtle shadows, and improved aesthetics.
-
-### 5. Interactive Card
-A visually engaging CSS-only interactive card featuring 3D transformations and smooth hover animations, highlighting UI/UX skill with CSS.
+Welcome to **Divinci**, a curated showcase of **cutting-edge CSS projects** designed to push the boundaries of what's possible with pure CSS — no JavaScript involved.  
+Here you’ll find elegant layouts, stunning art, interactive UI components, and much more — all crafted with pixel-perfect precision and deep CSS expertise.
 
 ---
 
-## Usage
+## 🚀 Projects Overview
 
-Clone the repo and navigate to each project folder to explore the code and open the respective HTML files in a modern browser:
+### 1. 🖌️ Art Face  
+A highly detailed CSS artwork creating a stylized human face using advanced layering, shapes, gradients, and shadows — showcasing mastery in CSS art techniques.
+
+### 2. 📊 Dashboard  
+A modern, minimal, dark-themed dashboard UI built entirely with CSS Grid and Flexbox.  
+Features smooth hover animations, clean typography, icon integration, and complex layouts — perfect for demonstrating CSS UI skills.
+
+### 3. 📰 Grid Magazine (v1)  
+A sleek magazine layout using CSS Grid for responsive columns, elegant spacing, and readable typography.  
+This version focuses on fundamentals with clean, minimal design principles.
+
+### 4. 🗞️ Grid Magazine (v2)  
+An enhanced, sophisticated iteration of the magazine layout.  
+Includes refined grid usage, soft gradients, subtle shadows, and UI polish — elevating the user experience with minimalistic elegance.
+
+### 5. 💳 Interactive Card  
+A visually engaging CSS-only interactive card featuring 3D transforms, smooth hover effects, and layered shadows.  
+Demonstrates UI/UX finesse without any JavaScript — pure CSS magic.
+
+---
+
+## 📂 How to Use
 
 ```bash
 git clone https://github.com/MohsenRazaniDev/Divinci.git
 cd Divinci
-# Open projects in your browser by opening index.html or project files inside folders
+# Open the HTML files in your favorite browser to explore each project
